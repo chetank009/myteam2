@@ -1,0 +1,43 @@
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+td {
+  padding-right: 8px;
+}
+.mat-expansion-panel {
+  box-sizing: content-box;
+  display: block;
+  margin: 0;
+  height: 334px;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: margin 225ms cubic-bezier(.4,0,.2,1),box-shadow 280ms cubic-bezier(.4,0,.2,1);
+}
+.searchbtn {
+  float: right;
+  height: 10px;
+  margin-top: 22px;
+  width: 85px;
+  margin-bottom: 25px;
+}
+button.btn.btn-primary {
+  margin-bottom: auto;
+}
+button.btn.btn-primary {
+  border-bottom: dotted;
+}
+button.btn.btn-primary {
+  /* margin-bottom: -28px; */
+  margin-top: 36px;
+}
+.example-stretched-tabs {
+  max-width: 800px;
+}
+
